@@ -3,7 +3,7 @@ import BookCard from '../components/BookCard';
 
 
 const getBooks=async()=>{
-    const res=await fetch('http://localhost:5000/books')
+    const res=await fetch('http://localhost:5000/books',{next:{revalidate:10}}) //ekta time por change hoye jabe jeita change korsi
 
     if(!res.ok){
         throw new Error("failed to fetch books")
