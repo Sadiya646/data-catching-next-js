@@ -1,5 +1,5 @@
 import React from 'react';
-
+import Link from 'next/link'
 const BookCard = ({book}) => {
     return (
           <div className="w-full max-w-sm overflow-hidden rounded-xl bg-white shadow-md transition hover:-translate-y-1 hover:shadow-xl">
@@ -39,6 +39,13 @@ const BookCard = ({book}) => {
           <button className="rounded-lg bg-blue-600 px-4 py-2 font-medium text-white hover:bg-blue-700">
             Add to Cart
           </button>
+
+          <Link  href={`/books/${book.id}`}>
+          
+          <button className="rounded-lg bg-blue-600 px-4 py-2 font-medium text-white hover:bg-blue-700">
+            Show details
+          </button>
+          </Link>
         </div>
 
       </div>
