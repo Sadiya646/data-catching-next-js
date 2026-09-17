@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Headphones",
+      "price": 2500,
+      "category": "Electronics",
+      "image": "https://example.com/headphones.jpg",
+      "description": "Enjoy clear and powerful sound with these comfortable wireless headphones. They are perfect for listening to music, watching movies, attending online classes, and making calls. The lightweight design makes them comfortable to wear for a long time."
+    },
+    {
+      "id": 2,
+      "name": "Smart Watch",
+      "price": 3500,
+      "category": "Electronics",
+      "image": "https://example.com/smartwatch.jpg",
+      "description": "This stylish smart watch helps you stay connected and track your daily activities. It includes fitness tracking, step counting, heart rate monitoring, and notification features. Its modern design makes it suitable for both everyday use and exercise."
+    },
+    {
+      "id": 3,
+      "name": "Leather Wallet",
+      "price": 1200,
+      "category": "Fashion",
+      "image": "https://example.com/wallet.jpg",
+      "description": "A classic and durable leather wallet designed for everyday use. It has multiple card slots, a cash compartment, and enough space to keep your essential cards and money organized. Its simple design makes it suitable for both casual and formal occasions."
+    },
+    {
+      "id": 4,
+      "name": "Running Shoes",
+      "price": 2800,
+      "category": "Shoes",
+      "image": "https://example.com/shoes.jpg",
+      "description": "These lightweight running shoes are designed to provide comfort and support during walking, running, and everyday activities. The breathable material helps keep your feet comfortable, while the flexible sole provides a smooth and stable experience."
+    },
+    {
+      "id": 5,
+      "name": "Travel Backpack",
+      "price": 1800,
+      "category": "Bags",
+      "image": "https://example.com/backpack.jpg",
+      "description": "A spacious and stylish backpack that is perfect for students, office workers, and travelers. It provides enough room for books, a laptop, clothes, and other daily essentials. The comfortable shoulder straps make it easy to carry throughout the day."
+    },
+    {
+      "id": 6,
+      "name": "UV Protection Sunglasses",
+      "price": 900,
+      "category": "Fashion",
+      "image": "https://example.com/sunglasses.jpg",
+      "description": "Protect your eyes from bright sunlight while maintaining a stylish look with these UV protection sunglasses. They feature a lightweight frame and comfortable design, making them ideal for outdoor activities, travel, driving, and everyday wear."
+    }
+  ]
+}
