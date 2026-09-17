@@ -5,48 +5,105 @@
       "name": "Wireless Headphones",
       "price": 2500,
       "category": "Electronics",
-      "image": "https://example.com/headphones.jpg",
-      "description": "Enjoy clear and powerful sound with these comfortable wireless headphones. They are perfect for listening to music, watching movies, attending online classes, and making calls. The lightweight design makes them comfortable to wear for a long time."
+      "image": "/images/headphones.jpg",
+      "description": "Enjoy clear and powerful sound with these comfortable wireless headphones. They are perfect for music, movies, online classes, and calls."
     },
     {
       "id": 2,
       "name": "Smart Watch",
       "price": 3500,
       "category": "Electronics",
-      "image": "https://example.com/smartwatch.jpg",
-      "description": "This stylish smart watch helps you stay connected and track your daily activities. It includes fitness tracking, step counting, heart rate monitoring, and notification features. Its modern design makes it suitable for both everyday use and exercise."
+      "image": "/images/smartwatch.jpg",
+      "description": "A stylish smart watch with fitness tracking, step counting, heart rate monitoring, and notification features."
     },
     {
       "id": 3,
       "name": "Leather Wallet",
       "price": 1200,
       "category": "Fashion",
-      "image": "https://example.com/wallet.jpg",
-      "description": "A classic and durable leather wallet designed for everyday use. It has multiple card slots, a cash compartment, and enough space to keep your essential cards and money organized. Its simple design makes it suitable for both casual and formal occasions."
+      "image": "/images/wallet.jpg",
+      "description": "A classic and durable leather wallet with multiple card slots and a spacious cash compartment."
     },
     {
       "id": 4,
       "name": "Running Shoes",
       "price": 2800,
       "category": "Shoes",
-      "image": "https://example.com/shoes.jpg",
-      "description": "These lightweight running shoes are designed to provide comfort and support during walking, running, and everyday activities. The breathable material helps keep your feet comfortable, while the flexible sole provides a smooth and stable experience."
+      "image": "/images/shoes.jpg",
+      "description": "Lightweight running shoes designed to provide comfort and support during walking, running, and everyday activities."
     },
     {
       "id": 5,
       "name": "Travel Backpack",
       "price": 1800,
       "category": "Bags",
-      "image": "https://example.com/backpack.jpg",
-      "description": "A spacious and stylish backpack that is perfect for students, office workers, and travelers. It provides enough room for books, a laptop, clothes, and other daily essentials. The comfortable shoulder straps make it easy to carry throughout the day."
+      "image": "/images/backpack.jpg",
+      "description": "A spacious backpack perfect for students, office workers, and travelers. It has enough space for books, a laptop, and daily essentials."
     },
     {
       "id": 6,
       "name": "UV Protection Sunglasses",
       "price": 900,
       "category": "Fashion",
-      "image": "https://example.com/sunglasses.jpg",
-      "description": "Protect your eyes from bright sunlight while maintaining a stylish look with these UV protection sunglasses. They feature a lightweight frame and comfortable design, making them ideal for outdoor activities, travel, driving, and everyday wear."
+      "image": "/images/sunglasses.jpg",
+      "description": "Stylish sunglasses with UV protection, perfect for outdoor activities, driving, traveling, and everyday use."
+    }
+  ],
+
+  "books": [
+    {
+      "id": 1,
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "price": 450,
+      "category": "Fiction",
+      "image": "/images/alchemist.jpg",
+      "description": "The Alchemist is an inspiring novel about a young shepherd who follows his dreams and travels in search of a hidden treasure."
+    },
+    {
+      "id": 2,
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "price": 650,
+      "category": "Self-Help",
+      "image": "/images/atomic-habits.jpg",
+      "description": "A practical book about building good habits, breaking bad ones, and making small changes that can lead to meaningful results."
+    },
+    {
+      "id": 3,
+      "title": "Rich Dad Poor Dad",
+      "author": "Robert T. Kiyosaki",
+      "price": 550,
+      "category": "Finance",
+      "image": "/images/rich-dad-poor-dad.jpg",
+      "description": "This popular personal finance book explains different attitudes toward money, investing, financial education, and building wealth."
+    },
+    {
+      "id": 4,
+      "title": "The Psychology of Money",
+      "author": "Morgan Housel",
+      "price": 600,
+      "category": "Finance",
+      "image": "/images/psychology-of-money.jpg",
+      "description": "A collection of stories and lessons about how people think about money, saving, investing, risk, and financial decisions."
+    },
+    {
+      "id": 5,
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "author": "J.K. Rowling",
+      "price": 700,
+      "category": "Fantasy",
+      "image": "/images/harry-potter.jpg",
+      "description": "The first Harry Potter adventure follows a young boy as he discovers the magical world and begins his journey at Hogwarts."
+    },
+    {
+      "id": 6,
+      "title": "The Power of Now",
+      "author": "Eckhart Tolle",
+      "price": 500,
+      "category": "Personal Development",
+      "image": "/images/power-of-now.jpg",
+      "description": "A personal development book that explores mindfulness, living in the present moment, and developing a calmer relationship with thoughts."
     }
   ]
 }
