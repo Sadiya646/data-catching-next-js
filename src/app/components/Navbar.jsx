@@ -1,7 +1,12 @@
 import Link from 'next/link';
-import React from 'react';
+import React, { useContext } from 'react';
+import { UserContext } from '../contexts/UserContext';
 
 const Navbar = () => {
+    const user=useContext
+    (UserContext)
+    console.log('from context in navbar', user);
+
 
     const links =<>
     <li><Link href="/">Home</Link></li>
